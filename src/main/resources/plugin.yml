@@ -1,0 +1,15 @@
+name: BuildMode
+version: '${project.version}'
+main: nl.inferno.buildMode.BuildMode
+api-version: '1.13'
+commands:
+  build:
+    description: Toggle build mode
+    usage: /<command>
+permissions:
+  buildmode.use:
+    description: Allows using build mode
+    default: op
+  buildmode.see:
+    description: Allows seeing players in build mode
+    default: op
