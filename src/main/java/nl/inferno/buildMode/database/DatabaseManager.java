@@ -1,6 +1,6 @@
 package nl.inferno.buildMode.database;
 
-import nl.inferno.buildMode.BuildMode;
+import nl.inferno.buildMode.main.BuildMode;
 import org.bukkit.configuration.file.FileConfiguration;
 
 import java.sql.Connection;

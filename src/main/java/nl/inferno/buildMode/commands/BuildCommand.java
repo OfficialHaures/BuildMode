@@ -1,5 +1,6 @@
-package nl.inferno.buildMode;
+package nl.inferno.buildMode.commands;
 
+import nl.inferno.buildMode.main.BuildMode;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;

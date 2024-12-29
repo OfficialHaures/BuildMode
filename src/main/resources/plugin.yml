@@ -1,6 +1,6 @@
 name: BuildMode
 version: '${project.version}'
-main: nl.inferno.buildMode.BuildMode
+main: nl.inferno.buildMode.main.BuildMode
 api-version: '1.13'
 commands:
   build:

@@ -1,5 +1,7 @@
-package nl.inferno.buildMode;
+package nl.inferno.buildMode.main;
 
+import nl.inferno.buildMode.commands.BuildCommand;
+import nl.inferno.buildMode.database.BuildModeData;
 import nl.inferno.buildMode.database.DatabaseManager;
 import nl.inferno.buildMode.listeners.BuildModeListener;
 import org.bukkit.GameMode;

@@ -1,12 +1,12 @@
-package nl.inferno.buildMode;
+package nl.inferno.buildMode.database;
 
 import com.google.gson.Gson;
+import nl.inferno.buildMode.main.BuildMode;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
-import java.sql.ResultSet;
 import java.sql.SQLException;
 
 public class BuildModeData {
